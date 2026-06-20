@@ -89,6 +89,12 @@ test_connexion()   # Verifies the connection
 init_db()          # Creates all tables defined in models
 ```
 
+### 6. Start Flask
+
+```bash
+flask --app api.app run --debug
+```
+
 ---
 
 ## DAL Utilities
