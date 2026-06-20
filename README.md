@@ -2,7 +2,7 @@
 
 A minimal project template demonstrating a clean DAL (Data Access Layer) architecture using **Flask**, **SQLAlchemy 2.0** and **SQL Server** via ODBC.
 
-<img width="294" height="241" alt="image" src="https://github.com/user-attachments/assets/b76a4eef-0af2-478f-a8b1-6954ff5bd9b5" />
+<img width="290" height="325" alt="image" src="https://github.com/user-attachments/assets/021a53f4-23ed-4276-b81e-23c4af3d900a" />
 
 ---
 
